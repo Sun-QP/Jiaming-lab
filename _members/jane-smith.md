@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
+name: Zhang Jiaming
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Harvord University
 aliases:
   - J. Smith
   - J Smith
