@@ -1,6 +1,6 @@
 ---
 name: Zhang Jiaming
-image: images/photo.jpg
+image: images/Jiaming.jpg
 role: principal-investigator
 affiliation: Harvord University
 aliases:
