@@ -3,7 +3,7 @@
 
 # Sun-QP's Website
 
-An engaging 1-3 sentence description of your lab.
+A Community that you can Mixes Bone Research, Coke Cola and Kuromi Fandom.
 
 {% include section.html %}
 
