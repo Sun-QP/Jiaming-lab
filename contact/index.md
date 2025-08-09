@@ -36,7 +36,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/nyd.png"
   caption="Lorem ipsum"
 %}
 
@@ -46,7 +46,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/googlemap.png"
   caption="Lorem ipsum"
 %}
 
