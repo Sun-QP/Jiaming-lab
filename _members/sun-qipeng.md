@@ -2,7 +2,7 @@
 name: Sun Qipeng
 image: images/Qipeng.png
 description: Visiting Student
-role: student
+role: phd
 links:
   email: sunqipeng228@gmail.com
   twitter: none
