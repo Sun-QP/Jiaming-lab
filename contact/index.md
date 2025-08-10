@@ -7,8 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are looking for Post Doc and Graduated Students.
+<p style="text-align:center;">
+We are looking for Post Doc and Graduated Students.<br>
 Please feel free to contact us if you want to join or visit our lab!!
+</p>
 
 {%
   include button.html
