@@ -2,8 +2,7 @@
 name: Zhang Jiaming
 image: images/Jiaming.jpg
 role: principal-investigator
-affiliation: Southern Medical University
-description: Master's Supervisor (Academic)       
+affiliation: Southern Medical University 
 aliases:
   - J. Smith
   - J Smith
