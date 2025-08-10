@@ -1,6 +1,6 @@
 ---
 name: Sun Qipeng
-image: images/Jiaming.jpg
+image: images/Qipeng.png
 role: Visiting student
 affiliation: Kumamoto University
 aliases:
