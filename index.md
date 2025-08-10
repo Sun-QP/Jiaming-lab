@@ -5,9 +5,9 @@
 
 <p style="text-align:center;">
 A Community that you can Mixes Bone Research, Coke Cola and Kuromi Fandom.
-
-{% include section.html %}
 </p>
+{% include section.html %}
+
 
 ## Highlights
 
