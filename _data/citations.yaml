@@ -24,7 +24,6 @@
   orcid: 0000-0001-8520-566X
   plugin: orcid.py
   file: orcid.yaml
-  image: images/cancerletter.jpeg
 - id: doi:10.1172/jci.insight.161932
   title: Comparative study in estrogen-depleted mice identifies skeletal and osteocyte
     transcriptomic responses to abaloparatide and teriparatide
@@ -46,7 +45,6 @@
   orcid: 0000-0001-8520-566X
   plugin: orcid.py
   file: orcid.yaml
-  images: images/jciinsight.jpeg
 - id: doi:10.1186/s12951-023-02050-7
   title: Injectable photocrosslinking spherical hydrogel-encapsulated targeting peptide-modified
     engineered exosomes for osteoarthritis therapy
@@ -69,7 +67,7 @@
   file: sources.yaml
   type: paper
   description: Amazing Research
-  image: images/hydro.jpg
+  image: images/Jiaming.jpg
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
@@ -96,7 +94,6 @@
   orcid: 0000-0001-8520-566X
   plugin: orcid.py
   file: orcid.yaml
-  images: images/AJPG.png
 - id: doi:10.1007/s42114-023-00673-w
   title: Novel strategy of senescence elimination via toxicity-exempted kinome perturbations
     by nanoliposome-based thermosensitive hydrogel for osteoarthritis therapy
@@ -115,7 +112,6 @@
   orcid: 0000-0001-8520-566X
   plugin: orcid.py
   file: orcid.yaml
-  images: images/advancecom.jpg
 - id: doi:10.1007/s42114-023-00649-w
   title: Nanoliposomal Bcl-xL proteolysis-targeting chimera enhances anti-cancer effects
     on cervical and breast cancer without on-target toxicities
@@ -133,7 +129,6 @@
   orcid: 0000-0001-8520-566X
   plugin: orcid.py
   file: orcid.yaml
-  images: images/advancecom.jpg
 - id: doi:10.3389/fimmu.2022.1065739
   title: 'Associations between serum urate and telomere length and inflammation markers:
     Evidence from UK Biobank cohort'
