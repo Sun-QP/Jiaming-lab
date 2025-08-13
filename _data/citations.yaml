@@ -24,6 +24,7 @@
   orcid: 0000-0001-8520-566X
   plugin: sources.py
   file: sources.yaml
+  type: paper
   image: images/cancerletter.jpeg
 - id: doi:10.1172/jci.insight.161932
   title: Comparative study in estrogen-depleted mice identifies skeletal and osteocyte
@@ -95,6 +96,7 @@
   orcid: 0000-0001-8520-566X
   plugin: sources.py
   file: sources.yaml
+  type: paper
   image: images/AJGP.png
 - id: doi:10.1007/s42114-023-00673-w
   title: Novel strategy of senescence elimination via toxicity-exempted kinome perturbations
@@ -114,6 +116,7 @@
   orcid: 0000-0001-8520-566X
   plugin: sources.py
   file: sources.yaml
+  type: paper
   image: images/advancecom.jpeg
 - id: doi:10.1007/s42114-023-00649-w
   title: Nanoliposomal Bcl-xL proteolysis-targeting chimera enhances anti-cancer effects
@@ -132,6 +135,7 @@
   orcid: 0000-0001-8520-566X
   plugin: sources.py
   file: sources.yaml
+  type: paper
   images: images/advancecom.jpeg
 - id: doi:10.3389/fimmu.2022.1065739
   title: 'Associations between serum urate and telomere length and inflammation markers:
