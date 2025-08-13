@@ -45,8 +45,10 @@
   date: '2023-10-23'
   link: https://doi.org/g9wmst
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  images: images/jciinsight.jpg
 - id: doi:10.1186/s12951-023-02050-7
   title: Injectable photocrosslinking spherical hydrogel-encapsulated targeting peptide-modified
     engineered exosomes for osteoarthritis therapy
@@ -117,7 +119,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/advancecom.jpeg
+  image: images/advancecom.jpg
 - id: doi:10.1007/s42114-023-00649-w
   title: Nanoliposomal Bcl-xL proteolysis-targeting chimera enhances anti-cancer effects
     on cervical and breast cancer without on-target toxicities
@@ -136,7 +138,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  images: images/advancecom.jpeg
+  images: images/advancecom.jpg
 - id: doi:10.3389/fimmu.2022.1065739
   title: 'Associations between serum urate and telomere length and inflammation markers:
     Evidence from UK Biobank cohort'
