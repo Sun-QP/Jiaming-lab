@@ -29,15 +29,16 @@
   type: paper
   image: images/AJGP.png
 
-- id: doi:10.1007/s42114-023-00673-w
-  type: paper
-  image: images/advancecom.jpg
-  
-- id: doi:10.1007/s42114-023-00649-w
-  type: paper
-  images: images/advancecom.jpg
-  
 - id: doi:10.1172/jci.insight.161932
   type: paper
   images: images/jciinsight.jpg
   
+- id: doi:10.1007/s42114-023-00673-w
+  type: paper
+  image: images/logo.ong
+  
+- id: doi:10.1007/s42114-023-00649-w
+  type: paper
+  images: images/logo.png
+  
+
