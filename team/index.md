@@ -34,7 +34,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% capture content %}
 
 {% include figure.html image="images/team1.jpg" caption="Two handsome boys in front of a monument!" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/roasting.jpg" caption="delicious roasted beef" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
