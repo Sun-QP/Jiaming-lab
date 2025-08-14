@@ -40,5 +40,21 @@
 - id: doi:10.1007/s42114-023-00649-w
   type: paper
   images: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
+
+  - id: doi:10.3389/fimmu.2022.1065739
+  type: paper
+  images:https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/B8A9338D-D05F-42BE-A5B9BE8019A37824/thul-6B9A2CF2-E908-47D5-92278636AEBA6C40.png
+  
+  - id: doi:10.1007/s42114-023-00649-w
+  type: paper
+  images: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
+
+  - id: doi:10.1007/s42114-023-00649-w
+  type: paper
+  images: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
+
+  - id: doi:10.1007/s42114-023-00649-w
+  type: paper
+  images: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
   
 
