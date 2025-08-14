@@ -31,7 +31,7 @@
 
 - id: doi:10.1172/jci.insight.161932
   type: paper
-  images: images/jciinsight.jpg
+  images: https://df6sxcketz7bb.cloudfront.net/volumes/10/15/10-15-cover.jpg
   
 - id: doi:10.1007/s42114-023-00673-w
   type: paper
@@ -39,6 +39,6 @@
   
 - id: doi:10.1007/s42114-023-00649-w
   type: paper
-  images: images/logo.png
+  images: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
   
 
