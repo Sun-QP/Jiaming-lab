@@ -48,7 +48,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  images: images/jciinsight.jpg
+  images: https://df6sxcketz7bb.cloudfront.net/volumes/10/15/10-15-cover.jpg
 - id: doi:10.1186/s12951-023-02050-7
   title: Injectable photocrosslinking spherical hydrogel-encapsulated targeting peptide-modified
     engineered exosomes for osteoarthritis therapy
@@ -138,7 +138,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  images: images/logo.png
+  images: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
 - id: doi:10.3389/fimmu.2022.1065739
   title: 'Associations between serum urate and telomere length and inflammation markers:
     Evidence from UK Biobank cohort'
