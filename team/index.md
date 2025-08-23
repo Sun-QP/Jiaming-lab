@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Members
 
 {% include section.html %}
 
@@ -25,9 +23,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Our Cherish Time
 
 {% include section.html %}
 
@@ -35,7 +31,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include figure.html image="images/team1.jpg" caption="Two handsome boys in front of a monument!" %}
 {% include figure.html image="images/roasting.jpg" caption="delicious roasted beef" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="computer/photo.jpg" caption="Thank you Dr Xiong for helping us assemble our first compute" %}
 
 {% endcapture %}
 
