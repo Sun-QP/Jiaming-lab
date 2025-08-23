@@ -18,7 +18,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-### <div class="text-center">Our Cherish Time</div>
+<center> ### Our Cherish Time </center>
 
 {% include section.html %}
 
