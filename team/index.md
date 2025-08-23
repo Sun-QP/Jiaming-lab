@@ -18,9 +18,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-<center>
-  <h3 style="font-size: 2rem; margin: 1rem 0;">Our Cherish Time</h3>
-</center>
+<center> <h3 style="font-size: 2rem; margin: 1rem 0;">Our Cherish Time</h3> </center>
 
 {% include section.html %}
 
@@ -28,7 +26,7 @@ nav:
 
 {% include figure.html image="images/team1.jpg" caption="Two handsome boys in front of a monument!" %}
 {% include figure.html image="images/roasting.jpg" caption="delicious roasted beef" %}
-{% include figure.html image="computer/computer.jpg" caption="Thank you Dr Xiong for helping us assemble our first computer" %}
+{% include figure.html image="images/computer.jpg" caption="Thank you Dr Xiong for helping us assemble our first computer" %}
 
 {% endcapture %}
 
