@@ -176,8 +176,10 @@
   date: '2022-11-29'
   link: https://doi.org/g9wmsz
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/2eba278e-8e57-4af8-86d9-5cf5e120c5f1/advs.v10.3.cover.jpg
 - id: doi:10.1007/s00586-022-07389-3
   title: 'Smoking, alcohol and coffee consumption and risk of low back pain: a Mendelian
     randomization study'
