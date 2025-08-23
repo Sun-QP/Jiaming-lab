@@ -18,7 +18,9 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-<center> ### Our Cherish Time </center>
+<center>
+  <h3 style="font-size: 2rem; margin: 1rem 0;">Our Cherish Time</h3>
+</center>
 
 {% include section.html %}
 
