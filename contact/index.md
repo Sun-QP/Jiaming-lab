@@ -39,7 +39,7 @@ link="https://www.google.com/maps/place/Southern+Medical+Univ+Shenzhen+Hosp/@22.
 {%
   include figure.html
   image="images/nyd.png"
-  caption="Lorem ipsum"
+  caption="Our Hospital"
 %}
 
 {% endcapture %}
@@ -49,7 +49,7 @@ link="https://www.google.com/maps/place/Southern+Medical+Univ+Shenzhen+Hosp/@22.
 {%
   include figure.html
   image="images/googlemap.png"
-  caption="Lorem ipsum"
+  caption="Our Location"
 %}
 
 {% endcapture %}
@@ -58,22 +58,5 @@ link="https://www.google.com/maps/place/Southern+Medical+Univ+Shenzhen+Hosp/@22.
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
