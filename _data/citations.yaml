@@ -1,5 +1,68 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/metabo15050341
+  title: Effects of Exercise on Gut Microbiome and Serum Metabolomics in Post-Traumatic
+    Osteoarthritis Rats
+  authors:
+  - Xiaoxia Hao
+  - Xingru Shang
+  - Yiwen Zhang
+  - Wenjie Hou
+  - Ruimin Chi
+  - Chunran Pan
+  - Jiawei Liu
+  - Xiaofeng Deng
+  - Jiaming Zhang
+  - Tao Xu
+  publisher: Metabolites
+  date: '2025-05-20'
+  link: https://doi.org/g924b7
+  type: paper
+  image: https://pub.mdpi-res.com/img/journals/metabolites-logo.png?f3bc931c58f5fdc7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jconrel.2025.02.052
+  title: Conditional sequential delivery of ginkgetin and rapamycin orchestrates inflammation
+    and autophagy to alleviate intervertebral disc degeneration
+  authors:
+  - Jiaoxiang Chen
+  - Xin Gan
+  - Shenkai Su
+  - Sizhe Jiao
+  - Zailing Gong
+  - Ziqiang Liu
+  - Xiaopei Wu
+  - Jun Jiang
+  - Jiaming Zhang
+  - Junlai Wan
+  publisher: Journal of Controlled Release
+  date: '2025-05-01'
+  link: https://doi.org/g924b8
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168365925X00043-cov150h.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s42114-025-01242-z
+  title: Biomimetic MOF nanoplatform for dual-targeted co-delivery of FAK inhibitor
+    and bismuth to enhance cervical cancer radiosensitivity
+  authors:
+  - Yu Chang
+  - Kexin Huang
+  - Han Tang
+  - Yuwei Yao
+  - Jie Min
+  - Hong Quan
+  - Kai Xu
+  - Hongbo Wang
+  - Jiaming Zhang
+  - Yingchao Zhao
+  publisher: Advanced Composites and Hybrid Materials
+  date: '2025-01-23'
+  link: https://doi.org/g924b9
+  type: paper
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s12951-023-02050-7
   title: Injectable photocrosslinking spherical hydrogel-encapsulated targeting peptide-modified
     engineered exosomes for osteoarthritis therapy
@@ -18,7 +81,6 @@
   date: '2023-08-21'
   link: https://doi.org/gsrbmr
   type: paper
-  description: Amazing Research
   image: images/hydro.jpg
   plugin: sources.py
   file: sources.yaml
