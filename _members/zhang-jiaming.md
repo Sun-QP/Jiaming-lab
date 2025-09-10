@@ -8,7 +8,7 @@ aliases:
   - J Smith
 links:
   home-page: ##########
-  orcid: ########
+  orcid: #########
 ---
 
 **Personal Profile**
