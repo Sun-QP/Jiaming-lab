@@ -4,7 +4,7 @@
 # Zhang Jiaming's Lab
 
 <p style="text-align:center;">
-A Community that you can Mixes Bone Research, Coke Cola and Kuromi Fandom.
+A Community That You Can Mix Bone Research, Coke Cola and Kuromi Fandom.
 </p>
 {% include section.html %}
 
