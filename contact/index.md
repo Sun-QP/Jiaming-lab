@@ -54,11 +54,4 @@ link="https://www.google.com/maps/place/Southern+Medical+Univ+Shenzhen+Hosp/@22.
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html %}  
-
-{% include section.html dark=true %}
-
-
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
