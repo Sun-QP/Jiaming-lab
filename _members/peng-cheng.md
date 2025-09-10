@@ -1,7 +1,7 @@
 ---
 name: Peng Cheng
 image: images/pengcheng.png
-description: Internship Student
+description: Undergraduate Student
 role: student
 links:
   email: 
