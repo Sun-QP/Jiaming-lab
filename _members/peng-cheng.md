@@ -1,6 +1,6 @@
 ---
 name: Peng Cheng
-image: images/pengchheng.png
+image: images/pengcheng.png
 description: Internship Student
 role: student
 links:
