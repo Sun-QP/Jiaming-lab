@@ -191,8 +191,10 @@
   date: '2022-09-16'
   link: https://doi.org/g9f7fz
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/586?as=webp
 - id: doi:10.3389/fphys.2022.974266
   title: 'Unbiased comparison and modularization identify time-related transcriptomic
     reprogramming in exercised rat cartilage: Integrated data mining and experimental
@@ -207,8 +209,10 @@
   date: '2022-09-15'
   link: https://doi.org/g4h3w2
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/front.png
 - id: doi:10.3390/ijms23169253
   title: Cartilage Oligomeric Matrix Protein, Diseases, and Therapeutic Opportunities
   authors:
@@ -218,8 +222,10 @@
   date: '2022-08-17'
   link: https://doi.org/g9v9w6
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://pub.mdpi-res.com/img/journals/ijms-logo.png?41930e44070e4940
 - id: doi:10.1302/2046-3758.116.BJR-2021-0436.R1
   title: Identification of mechanics-responsive osteocyte signature in osteoarthritis
     subchondral bone
@@ -236,8 +242,10 @@
   date: '2022-06-01'
   link: https://doi.org/g9wms2
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://boneandjoint.org.uk/images/BJR_logo.svg
 - id: doi:10.1302/2046-3758.114.BJR-2021-0192.R1
   title: Exercise modifies the disease-relevant gut microbial shifts in post-traumatic
     osteoarthritis rats
@@ -254,8 +262,10 @@
   date: '2022-04-01'
   link: https://doi.org/g9wms3
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://boneandjoint.org.uk/images/BJR_logo.svg
 - id: doi:10.3389/fgene.2022.821508
   title: "Whole Transcriptome Mapping Identifies an Immune- and Metabolism-Related\
     \ Non-coding RNA Landscape Remodeled by Mechanical Stress in IL-1\u03B2-Induced\
@@ -273,8 +283,10 @@
   date: '2022-03-03'
   link: https://doi.org/g9wms4
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/front.png
 - id: doi:10.1016/j.trechm.2022.02.002
   title: 'Emerging biomimetic nanotechnology in orthopedic diseases: progress, challenges,
     and opportunities'
@@ -292,8 +304,10 @@
   date: '2022-05-01'
   link: https://doi.org/g9wms5
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://www.cell.com/cms/asset/96c3e337-2269-46bb-8010-0e36627fe903/cov200h.gif
 - id: doi:10.1016/j.arr.2022.101608
   title: 'Osteocytes in bone aging: Advances, challenges, and future perspectives'
   authors:
@@ -306,8 +320,10 @@
   date: '2022-05-01'
   link: https://doi.org/gpnpxg
   orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1568163721X0013X-cov150h.gif
 - id: doi:10.1002/jcp.30386
   title: "Moderate mechanical stress suppresses the IL\u20101\u03B2\u2010induced chondrocyte\
     \ apoptosis by regulating mitochondrial dynamics"
