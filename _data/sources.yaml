@@ -1,6 +1,17 @@
+- id: doi:10.3390/metabo15050341
+  type: paper
+  image: https://pub.mdpi-res.com/img/journals/metabolites-logo.png?f3bc931c58f5fdc7
+
+- id: doi:10.1016/j.jconrel.2025.02.052
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168365925X00043-cov150h.gif
+
+- id: doi:10.1007/s42114-025-01242-z
+  type: paper
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
+
 - id: doi:10.1186/s12951-023-02050-7
   type: paper
-  description: Amazing Research
   image: images/hydro.jpg  
 
 - id: doi:10.1016/j.canlet.2024.216658 
