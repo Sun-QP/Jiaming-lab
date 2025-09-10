@@ -1,7 +1,7 @@
 - id: doi:10.1186/s12951-023-02050-7
   type: paper
   description: Amazing Research
-  image: images/hydro.jpg 
+  image: images/hydro.jpg  
 
 - id: doi:10.1016/j.canlet.2024.216658 
   type: paper
