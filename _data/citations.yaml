@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1186/s12951-023-02050-7
+  title: Injectable photocrosslinking spherical hydrogel-encapsulated targeting peptide-modified
+    engineered exosomes for osteoarthritis therapy
+  authors:
+  - Junlai Wan
+  - Zhiyi He
+  - Renpeng Peng
+  - Xiaopei Wu
+  - Ziqing Zhu
+  - Jiarui Cui
+  - Xiaoxia Hao
+  - Anmin Chen
+  - Jiaming Zhang
+  - Peng Cheng
+  publisher: Journal of Nanobiotechnology
+  date: '2023-08-21'
+  link: https://doi.org/gsrbmr
+  type: paper
+  description: Amazing Research
+  image: images/hydro.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.canlet.2024.216658
   title: METTL3-mediated HSPA9 m6A modification promotes malignant transformation
     and inhibits cellular senescence by regulating exosomal mortalin protein in cervical
@@ -21,11 +43,25 @@
   publisher: Cancer Letters
   date: '2024-04-01'
   link: https://doi.org/g9wmss
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: images/cancerletter.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jagp.2023.08.001
+  title: 'Genetically Proxied Sarcopenia-Related Muscle Traits and Depression: Evidence
+    from the FinnGen Cohort'
+  authors:
+  - Zhengtao Lv
+  - Yingchao Zhao
+  - Jiarui Cui
+  - Jiaming Zhang
+  publisher: The American Journal of Geriatric Psychiatry
+  date: '2024-01-01'
+  link: https://doi.org/g9q7q4
+  type: paper
+  image: images/AJGP.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1172/jci.insight.161932
   title: Comparative study in estrogen-depleted mice identifies skeletal and osteocyte
     transcriptomic responses to abaloparatide and teriparatide
@@ -44,50 +80,10 @@
   publisher: JCI Insight
   date: '2023-10-23'
   link: https://doi.org/g9wmst
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: https://df6sxcketz7bb.cloudfront.net/volumes/10/15/10-15-cover.jpg
-- id: doi:10.1186/s12951-023-02050-7
-  title: Injectable photocrosslinking spherical hydrogel-encapsulated targeting peptide-modified
-    engineered exosomes for osteoarthritis therapy
-  authors:
-  - Junlai Wan
-  - Zhiyi He
-  - Renpeng Peng
-  - Xiaopei Wu
-  - Ziqing Zhu
-  - Jiarui Cui
-  - Xiaoxia Hao
-  - Anmin Chen
-  - Jiaming Zhang
-  - Peng Cheng
-  publisher: Journal of Nanobiotechnology
-  date: '2023-08-21'
-  link: https://doi.org/gsrbmr
-  orcid: 0000-0001-8520-566X
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Amazing Research
-  image: images/hydro.jpg
-- id: doi:10.1016/j.jagp.2023.08.001
-  title: 'Genetically Proxied Sarcopenia-Related Muscle Traits and Depression: Evidence
-    from the FinnGen Cohort'
-  authors:
-  - Zhengtao Lv
-  - Yingchao Zhao
-  - Jiarui Cui
-  - Jiaming Zhang
-  publisher: The American Journal of Geriatric Psychiatry
-  date: '2024-01-01'
-  link: https://doi.org/g9q7q4
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  image: images/AJGP.png
 - id: doi:10.1007/s42114-023-00673-w
   title: Novel strategy of senescence elimination via toxicity-exempted kinome perturbations
     by nanoliposome-based thermosensitive hydrogel for osteoarthritis therapy
@@ -103,11 +99,10 @@
   publisher: Advanced Composites and Hybrid Materials
   date: '2023-05-18'
   link: https://doi.org/g9wmsv
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s42114-023-00649-w
   title: Nanoliposomal Bcl-xL proteolysis-targeting chimera enhances anti-cancer effects
     on cervical and breast cancer without on-target toxicities
@@ -122,11 +117,10 @@
   publisher: Advanced Composites and Hybrid Materials
   date: '2023-04-01'
   link: https://doi.org/g9wmsw
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/42114?as=webp
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fimmu.2022.1065739
   title: 'Associations between serum urate and telomere length and inflammation markers:
     Evidence from UK Biobank cohort'
@@ -137,11 +131,10 @@
   publisher: Frontiers in Immunology
   date: '2022-12-15'
   link: https://doi.org/g9wmsx
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: images/front.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/advs.202203718
   title: STING Suppresses Mitochondrial VDAC2 to Govern RCC Growth Independent of
     Innate Immunity
@@ -163,11 +156,10 @@
   publisher: Advanced Science
   date: '2022-11-29'
   link: https://doi.org/g9wmsz
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/2eba278e-8e57-4af8-86d9-5cf5e120c5f1/advs.v10.3.cover.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00586-022-07389-3
   title: 'Smoking, alcohol and coffee consumption and risk of low back pain: a Mendelian
     randomization study'
@@ -178,11 +170,10 @@
   publisher: European Spine Journal
   date: '2022-09-16'
   link: https://doi.org/g9f7fz
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/586?as=webp
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fphys.2022.974266
   title: 'Unbiased comparison and modularization identify time-related transcriptomic
     reprogramming in exercised rat cartilage: Integrated data mining and experimental
@@ -196,11 +187,10 @@
   publisher: Frontiers in Physiology
   date: '2022-09-15'
   link: https://doi.org/g4h3w2
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: images/front.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/ijms23169253
   title: Cartilage Oligomeric Matrix Protein, Diseases, and Therapeutic Opportunities
   authors:
@@ -209,11 +199,10 @@
   publisher: International Journal of Molecular Sciences
   date: '2022-08-17'
   link: https://doi.org/g9v9w6
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: https://pub.mdpi-res.com/img/journals/ijms-logo.png?41930e44070e4940
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1302/2046-3758.116.BJR-2021-0436.R1
   title: Identification of mechanics-responsive osteocyte signature in osteoarthritis
     subchondral bone
@@ -229,52 +218,25 @@
   publisher: Bone &amp; Joint Research
   date: '2022-06-01'
   link: https://doi.org/g9wms2
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: https://boneandjoint.org.uk/images/BJR_logo.svg
-- id: doi:10.1302/2046-3758.114.BJR-2021-0192.R1
-  title: Exercise modifies the disease-relevant gut microbial shifts in post-traumatic
-    osteoarthritis rats
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.arr.2022.101608
+  title: 'Osteocytes in bone aging: Advances, challenges, and future perspectives'
   authors:
-  - Xiaoxia Hao
-  - Jiaming Zhang
-  - Xingru Shang
-  - Kai Sun
+  - Jiarui Cui
+  - Yo Shibata
+  - Tianmin Zhu
   - Jun Zhou
-  - Jiawei Liu
-  - Ruimin Chi
-  - Tao Xu
-  publisher: Bone &amp; Joint Research
-  date: '2022-04-01'
-  link: https://doi.org/g9wms3
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  image: https://boneandjoint.org.uk/images/BJR_logo.svg
-- id: doi:10.3389/fgene.2022.821508
-  title: "Whole Transcriptome Mapping Identifies an Immune- and Metabolism-Related\
-    \ Non-coding RNA Landscape Remodeled by Mechanical Stress in IL-1\u03B2-Induced\
-    \ Rat OA-like Chondrocytes"
-  authors:
   - Jiaming Zhang
-  - Xiaoxia Hao
-  - Ruimin Chi
-  - Jiawei Liu
-  - Xingru Shang
-  - Xiaofeng Deng
-  - Jun Qi
-  - Tao Xu
-  publisher: Frontiers in Genetics
-  date: '2022-03-03'
-  link: https://doi.org/g9wms4
-  orcid: 0000-0001-8520-566X
+  publisher: Ageing Research Reviews
+  date: '2022-05-01'
+  link: https://doi.org/gpnpxg
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1568163721X0013X-cov150h.gif
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  image: images/front.png
 - id: doi:10.1016/j.trechm.2022.02.002
   title: 'Emerging biomimetic nanotechnology in orthopedic diseases: progress, challenges,
     and opportunities'
@@ -291,356 +253,46 @@
   publisher: Trends in Chemistry
   date: '2022-05-01'
   link: https://doi.org/g9wms5
-  orcid: 0000-0001-8520-566X
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   image: https://www.cell.com/cms/asset/96c3e337-2269-46bb-8010-0e36627fe903/cov200h.gif
-- id: doi:10.1016/j.arr.2022.101608
-  title: 'Osteocytes in bone aging: Advances, challenges, and future perspectives'
-  authors:
-  - Jiarui Cui
-  - Yo Shibata
-  - Tianmin Zhu
-  - Jun Zhou
-  - Jiaming Zhang
-  publisher: Ageing Research Reviews
-  date: '2022-05-01'
-  link: https://doi.org/gpnpxg
-  orcid: 0000-0001-8520-566X
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1568163721X0013X-cov150h.gif
-- id: doi:10.1002/jcp.30386
-  title: "Moderate mechanical stress suppresses the IL\u20101\u03B2\u2010induced chondrocyte\
-    \ apoptosis by regulating mitochondrial dynamics"
-  authors:
-  - Jiaming Zhang
-  - Xiaoxia Hao
-  - Ruimin Chi
-  - Jun Qi
-  - Tao Xu
-  publisher: Journal of Cellular Physiology
-  date: '2021-04-06'
-  link: https://doi.org/g9vwxc
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.fertnstert.2021.01.027
-  title: Target identification and drug discovery by data-driven hypothesis and experimental
-    validation in ovarian endometriosis
-  authors:
-  - Minuo Yin
-  - Jiaming Zhang
-  - Xinliu Zeng
-  - Hanke Zhang
-  - Ying Gao
-  publisher: Fertility and Sterility
-  date: '2021-08-01'
-  link: https://doi.org/gq2t2w
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/advs.202004846
-  title: "<i>SPOP</i> and <i>OTUD7A</i> Control <i>EWS\u2013FLI1</i> Protein Stability\
-    \ to Govern Ewing Sarcoma Growth"
-  authors:
-  - Siyuan Su
-  - Jianfeng Chen
-  - Yao Jiang
-  - Ying Wang
-  - Tamara Vital
-  - Jiaming Zhang
-  - Christian Laggner
-  - Kong T. Nguyen
-  - Zhichuan Zhu
-  - Alex W. Prevatte
-  - Natalie K. Barker
-  - Laura E. Herring
-  - Ian J. Davis
-  - Pengda Liu
-  publisher: Advanced Science
-  date: '2021-06-01'
-  link: https://doi.org/gkbv2h
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/jor.24791
-  title: "Effects of body weight\u2010supported treadmill training on cartilage\u2010\
-    subchondral bone unit in the rat model of posttraumatic osteoarthritis"
+- id: doi:10.1302/2046-3758.114.BJR-2021-0192.R1
+  title: Exercise modifies the disease-relevant gut microbial shifts in post-traumatic
+    osteoarthritis rats
   authors:
   - Xiaoxia Hao
-  - Shengjie Wang
   - Jiaming Zhang
-  - Tao Xu
-  publisher: Journal of Orthopaedic Research
-  date: '2020-07-31'
-  link: https://doi.org/g9wms6
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3389/fimmu.2021.624614
-  title: "Predicted Disease-Specific Immune Infiltration Patterns Decode the Potential\
-    \ Mechanisms of Long Non-Coding RNAs in Primary Sjogren\u2019s Syndrome"
-  authors:
-  - Caiqi Cheng
-  - Jun Zhou
-  - Ruiying Chen
-  - Yo Shibata
-  - Reina Tanaka
-  - Jun Wang
-  - Jiaming Zhang
-  publisher: Frontiers in Immunology
-  date: '2021-04-14'
-  link: https://doi.org/g9wms7
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13075-021-02427-9
-  title: 'The gut microbiota in osteoarthritis: where do we stand and what can we
-    do?'
-  authors:
-  - Xiaoxia Hao
   - Xingru Shang
+  - Kai Sun
+  - Jun Zhou
   - Jiawei Liu
   - Ruimin Chi
-  - Jiaming Zhang
   - Tao Xu
-  publisher: Arthritis Research &amp; Therapy
-  date: '2021-01-27'
-  link: https://doi.org/gnxmdf
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1302/2046-3758.98.bjr-2019-0301.r1
-  title: Promising targets and drugs in rheumatoid arthritis
-  authors:
-  - Xingyan Li
-  - Yejing Yang
-  - Guili Sun
-  - Wanwu Dai
-  - Xuri Jie
-  - Yongjun Du
-  - Runjie Huang
-  - Jiaming Zhang
   publisher: Bone &amp; Joint Research
-  date: '2020-08-01'
-  link: https://doi.org/ghmm9b
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1302/2046-3758.82.bjr-2018-0074.r1
-  title: Long non-coding RNA in osteogenesis
-  authors:
-  - J. Zhang
-  - X. Hao
-  - M. Yin
-  - T. Xu
-  - F. Guo
-  publisher: Bone &amp; Joint Research
-  date: '2019-02-01'
-  link: https://doi.org/g9wms8
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.phrs.2018.09.026
-  title: Fibroblast growth factor 18 exerts anti-osteoarthritic effects through PI3K-AKT
-    signaling and mitochondrial fusion and fission
-  authors:
-  - Xudong Yao
-  - Jiaming zhang
-  - Xingzhi Jing
-  - Yaping Ye
-  - Jiachao Guo
-  - Kai Sun
-  - Fengjing Guo
-  publisher: Pharmacological Research
-  date: '2019-01-01'
-  link: https://doi.org/grvfj5
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3389/fphar.2018.01378
-  title: "Necrostatin-1 Attenuates Trauma-Induced Mouse Osteoarthritis and IL-1\u03B2\
-    \ Induced Apoptosis via HMGB1/TLR4/SDF-1 in Primary Mouse Chondrocytes"
-  authors:
-  - Shuang Liang
-  - Zheng-tao Lv
-  - Jia-ming Zhang
-  - Yu-ting Wang
-  - Yong-hui Dong
-  - Zheng-gang Wang
-  - Kun Chen
-  - Peng Cheng
-  - Qing Yang
-  - Feng-jing Guo
-  - Wei-wei Lu
-  - Wen-tao Zhu
-  - An-min Chen
-  publisher: Frontiers in Pharmacology
-  date: '2018-11-27'
-  link: https://doi.org/gfrrd4
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.gene.2018.08.013
-  title: Identification of Skt11-regulated genes in chondrocytes by integrated bioinformatics
-    analysis
-  authors:
-  - Shuang Liang
-  - Jia-ming Zhang
-  - Zheng-tao Lv
-  - Peng Cheng
-  - Wen-tao Zhu
-  - An-min Chen
-  publisher: Gene
-  date: '2018-11-01'
-  link: https://doi.org/gfg3n5
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.cca.2018.03.034
-  title: 'Long noncoding RNA LINC00152 as a novel predictor of lymph node metastasis
-    and survival in human cancer: a systematic review and meta-analysis'
+  date: '2022-04-01'
+  link: https://doi.org/g9wms3
+  type: paper
+  image: https://boneandjoint.org.uk/images/BJR_logo.svg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fgene.2022.821508
+  title: "Whole Transcriptome Mapping Identifies an Immune- and Metabolism-Related\
+    \ Non-coding RNA Landscape Remodeled by Mechanical Stress in IL-1\u03B2-Induced\
+    \ Rat OA-like Chondrocytes"
   authors:
   - Jiaming Zhang
-  - Minuo Yin
-  - Junming Huang
-  - Zhengtao Lv
-  - Shuang Liang
-  - Xiaoao Miao
-  - Fang Huang
-  - Yingchao Zhao
-  publisher: Clinica Chimica Acta
-  date: '2018-08-01'
-  link: https://doi.org/gdw6d6
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/cpr.12440
-  title: "<scp>CRNDE</scp>: An important oncogenic long non\u2010coding <scp>RNA</scp>\
-    \ in human cancers"
-  authors:
-  - Jiaming Zhang
-  - Minuo Yin
-  - Gang Peng
-  - Yingchao Zhao
-  publisher: Cell Proliferation
-  date: '2018-02-05'
-  link: https://doi.org/g9wms9
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1155/2018/3936257
-  title: "FNDC4 Inhibits RANKL-Induced Osteoclast Formation by Suppressing NF-<i>\u03BA\
-    </i>B Activation and CXCL10 Expression"
-  authors:
-  - Zheng-tao Lv
-  - Shuang Liang
-  - Kun Chen
-  - Jia-ming Zhang
-  - Peng Cheng
-  - Jia-chao Guo
-  - Qing Yang
-  - Chen-he Zhou
-  - Hui Liao
-  - An-min Chen
-  publisher: BioMed Research International
-  date: '2018-05-30'
-  link: https://doi.org/gdt5tw
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3892/mmr.2018.8486
-  title: "Role of IFT88 in icariin\u2011regulated maintenance of the chondrocyte phenotype"
-  authors:
-  - Wei Xiang
-  - Jiaming Zhang
-  - Rui Wang
-  - Limei Wang
-  - Shengjie Wang
-  - Yingxing Wu
-  - Yonghui Dong
-  - Fengjing Guo
+  - Xiaoxia Hao
+  - Ruimin Chi
+  - Jiawei Liu
+  - Xingru Shang
+  - Xiaofeng Deng
+  - Jun Qi
   - Tao Xu
-  publisher: Molecular Medicine Reports
-  date: '2018-01-25'
-  link: https://doi.org/gcxcrg
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3389/fphar.2017.00693
-  title: Meclizine Prevents Ovariectomy-Induced Bone Loss and Inhibits Osteoclastogenesis
-    Partially by Upregulating PXR
-  authors:
-  - Jiachao Guo
-  - Weijin Li
-  - Yingxing Wu
-  - Xingzhi Jing
-  - Junming Huang
-  - Jiaming Zhang
-  - Wei Xiang
-  - Ranyue Ren
-  - Zhengtao Lv
-  - Jun Xiao
-  - Fengjing Guo
-  publisher: Frontiers in Pharmacology
-  date: '2017-10-04'
-  link: https://doi.org/gb4bnd
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3892/mmr.2017.7616
-  title: CD146+ skeletal stem cells from growth plate exhibit specific chondrogenic
-    differentiation capacity in vitro
-  authors:
-  - Ying-Xing Wu
-  - Xing-Zhi Jing
-  - Yue Sun
-  - Ya-Ping Ye
-  - Jia-Chao Guo
-  - Jun-Ming Huang
-  - Wei Xiang
-  - Jia-Ming Zhang
-  - Feng-Jing Guo
-  publisher: Molecular Medicine Reports
-  date: '2017-09-26'
-  link: https://doi.org/gb23kw
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3892/or.2017.5694
-  title: HDAC6 inhibition suppresses chondrosarcoma by restoring the expression of
-    primary cilia
-  authors:
-  - Wei Xiang
-  - Fengjing Guo
-  - Weiting Cheng
-  - Jiaming Zhang
-  - Junming Huang
-  - Rui Wang
-  - Zhongxi Ma
-  - Kai Xu
-  publisher: Oncology Reports
-  date: '2017-01-01'
-  link: https://doi.org/gbkztw
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1155/2016/2571080
-  title: 'Effect of Ulinastatin in the Treatment of Postperative Cognitive Dysfunction:
-    Review of Current Literature'
-  authors:
-  - Zheng-tao Lv
-  - Jun-ming Huang
-  - Jin-ming Zhang
-  - Jia-ming Zhang
-  - Jin-feng Guo
-  - An-min Chen
-  publisher: BioMed Research International
-  date: '2016-01-01'
-  link: https://doi.org/f9jdpd
-  orcid: 0000-0001-8520-566X
-  plugin: orcid.py
-  file: orcid.yaml
+  publisher: Frontiers in Genetics
+  date: '2022-03-03'
+  link: https://doi.org/g9wms4
+  type: paper
+  image: images/front.png
+  plugin: sources.py
+  file: sources.yaml
