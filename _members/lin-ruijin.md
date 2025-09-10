@@ -1,6 +1,6 @@
 ---
 name: Li Ruijin
-image: images/logo.png
+image: images/lrj.png
 description: Graduated Student
 role: student
 links:
