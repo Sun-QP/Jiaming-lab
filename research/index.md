@@ -25,9 +25,4 @@ We are doing some great and awesome bone researches with tremendous sea of love
 
 {% include search-info.html %}
 
-{% assign recent_citations = site.data.citations | where_exp: "item", "item.year >= 2022" %}
-<ul>
-  {% for citation in recent_citations %}
-    <li>{{ citation.title }} ({{ citation.year }}) - {{ citation.author }}</li>
-  {% endfor %}
-</ul>
+{% include list.html data="citations" component="citation" style="rich" %}
