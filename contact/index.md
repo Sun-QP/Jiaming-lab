@@ -18,12 +18,7 @@ Please feel free to contact us if you want to join or visit our lab!!
   text="jiamingsmu1333@smu.edu.cn"
   link="jiamingsmu1333@smu.edu.cn"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
