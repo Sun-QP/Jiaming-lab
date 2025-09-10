@@ -469,7 +469,7 @@
 
 <header
   class="background"
-  style="--image: url('/Jiaming-lab/images/background.jpg')"
+  style="--image: url('/Jiaming-lab/images/background.png.jpg')"
   
     data-dark="true"
   
@@ -664,7 +664,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <footer
   class="background"
-  style="--image: url('/Jiaming-lab/images/background.jpg')"
+  style="--image: url('/Jiaming-lab/images/background.png.jpg')"
   
     data-dark="true"
   
