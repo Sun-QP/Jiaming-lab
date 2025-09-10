@@ -25,6 +25,12 @@ We are doing some great and awesome bone researches with tremendous sea of love
 
 {% include search-info.html %}
 
-{% assign recent_citations = citations | where_exp: "c", "c.date >= '2023-01-01'" %}
+{% assign recent_citations = "" | split: "" %}
+{% for c in citations %}
+  {% assign year = c.date | slice: 0, 4 %}
+  {% if year >= "2022" %}
+    {% assign recent_citations = recent_citations | push: c %}
+  {% endif %}
+{% endfor %}
 
 {% include list.html data=recent_citations component="citation" style="rich" %}
