@@ -8,7 +8,7 @@ aliases:
   - J Smith
 links:
   home-page: ##########
-  orcid: 0000-0001-8520-566X
+  orcid: ########
 ---
 
 **Personal Profile**
